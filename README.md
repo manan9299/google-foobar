@@ -19,4 +19,4 @@ There are basically 5 levels, each with a different number of challenges that fo
 ### Level 3
 - [Prepare The Bunny Escape](https://github.com/manan9299/google-foobar/tree/master/Level3/PrepareTheBunnyEscape)
 
-I am currently on level 3 and would keep on posting the solutions here as I proceed to the next levels.
+I am currently on level 3 and will keep on posting the solutions here as I proceed to the next levels.
